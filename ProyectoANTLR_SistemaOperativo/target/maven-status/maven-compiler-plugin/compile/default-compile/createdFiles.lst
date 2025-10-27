@@ -9,9 +9,11 @@ com\example\pseudocode\PseudoCodeParser$EstructuraContext.class
 com\example\pseudocode\PseudoCodeParser$ProgramContext.class
 com\example\pseudocode\PseudoCodeBaseVisitor.class
 com\example\pseudocode\PseudoCodeParser$IfEstructuraContext.class
+com\example\pseudocode\Analizador.class
 com\example\pseudocode\ValidadorVisitor.class
 com\example\pseudocode\CollectingErrorListener.class
 com\example\pseudocode\PseudoCodeParser$CondicionContext.class
+com\example\pseudocode\Reporte.class
 com\example\pseudocode\PseudoCodeParser$ExpresionContext.class
 com\example\pseudocode\PseudoCodeParser$FuncionContext.class
 com\example\pseudocode\Main.class
